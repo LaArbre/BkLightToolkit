@@ -1,4 +1,4 @@
-bleak>=0.16.0
+bleak==0.20.2
 Pillow>=9.3.0
 PyYAML>=6.0
 click>=8.1.0
