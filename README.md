@@ -15,13 +15,9 @@ Inspiré par Bk‑Light‑AppBypass de Puparia (crédit), avec des adaptations o
 3. [Installation](#installation)
 8. [Licence](#licence)
 
----
-
 ## Présentation
 
 BkLightToolkit est un ensemble d’outils Python permettant de communiquer avec un panneau LED BK‑Light ACT1026 32×32 via BLE en utilisant la séquence de commandes extraite des logs fournis. D’autres panneaux peuvent fonctionner mais ne sont pas officiellement supportés.
-
----
 
 ## Fonctionnalités
 
@@ -32,12 +28,8 @@ BkLightToolkit est un ensemble d’outils Python permettant de communiquer avec 
 - Possibilité de créer de nouveaux effets visuels.
 - Interface CLI en cours de développement.
 
----
-
 ## Example
 A venir
-
----
 
 ## Installation
 
@@ -53,8 +45,6 @@ git clone https://github.com/LaArbre/BkLightToolkit.git
 cd BkLightToolkit
 pip install -r requirements.txt
 ```
-
----
 
 ## Licence
 
