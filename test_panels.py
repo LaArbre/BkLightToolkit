@@ -9,7 +9,8 @@ async def main():
 
     await manager.send("Hello World", color=(255, 0, 0))
 
-    await manager.send("test.png")
+    await manager.send("assets/example.png")
 
 if __name__ == "__main__":
     asyncio.run(main())
+
