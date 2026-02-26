@@ -37,7 +37,7 @@ class BLETransport:
         if self.log:
             print(f"Connected to {self.address}")
 
-    async def _handler(self, data: bytearray) -> None:
+    async def _handler(self, _, data: bytearray) -> None:
         """
         Gestionnaire des notifications reçues depuis le panneau.
 
