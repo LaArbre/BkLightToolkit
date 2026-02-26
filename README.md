@@ -11,11 +11,8 @@ Inspiré par Bk‑Light‑AppBypass de Puparia (crédit), avec des adaptations o
 
 1. [Présentation](#présentation)
 2. [Fonctionnalités](#fonctionnalités)
+5. [Exemples de scripts](#example)
 3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Exemples de scripts](#exemples-de-scripts)
-6. [Contribution](#contribution)
-7. [Roadmap](#roadmap)
 8. [Licence](#licence)
 
 ---
@@ -37,6 +34,11 @@ BkLightToolkit est un ensemble d’outils Python permettant de communiquer avec 
 
 ---
 
+## Example
+A venir
+
+---
+
 ## Installation
 
 Pré‑requis système
@@ -50,3 +52,10 @@ Installation du package
 git clone https://github.com/LaArbre/BkLightToolkit.git
 cd BkLightToolkit
 pip install -r requirements.txt
+```
+
+---
+
+## Licence
+
+Licece MIT, voir fichier LICENCE
