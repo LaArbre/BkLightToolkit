@@ -2,7 +2,6 @@
 
 ![Build Status](https://img.shields.io/github/actions/workflow/status/LaArbre/BkLightToolkit/python-package.yml?branch=main)
 ![PyPI](https://img.shields.io/pypi/v/BkLightToolkit) bientôt :)
-![License](https://img.shields.io/github/license/LaArbre/BkLightToolkit)
 
 API Python pour piloter une matrice RGB 32×32 BK‑Light ACT1026 par Bluetooth Low Energy (BLE).
 Inspiré par Bk‑Light‑AppBypass de Puparia (crédit), avec des adaptations originales et des extensions d’usage. ([GitHub Repo](https://github.com/LaArbre/BkLightToolkit))
